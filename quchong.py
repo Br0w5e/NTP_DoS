@@ -1,3 +1,5 @@
+#python3
+#by Br0w5e
 #在执行脚本之前先执行以下命令
 #sudo apt-get install masscan
 #masscan -pU:123 -oX ntp.xml --rate 160000 101.0.0.0-111.111.111.111
